@@ -4,13 +4,17 @@ En este proyecto se realiza un análisis de hipótesis para el aumento de ingres
 
 ## 🎯 Objetivos
 
-* Priorizar las hipótesis propuestas.
+* Priorizar las hipótesis propuestas:
+  * Aplicación del framework ICE (Impact, Confidence, Ease).
+  * Aplicación del framework RICE (Reach, Impact, Confidence, Effort).
+
 * Analizar los resultados del test A/B en:
   * Ingreso acumulado por grupo.
   * Número de pedidos por grupo.
   * Tamaño promedio del pedido y su diferencia relativa.
   * Tasa de conversión por grupo.
   * Identificación de anomalías.
+
 * Análisis de significancia estadística en la tasa de conversión y el ticket promedio.
 
 ## 📅 Periodo Analizado
@@ -32,4 +36,5 @@ Dar por concluida la prueba, analizando los factores que pudieron influir en la 
 * NumPy
 * Matplotlib / Seaborn
 * SciPy
+* Statsmodels
 * Jupyter Notebook
